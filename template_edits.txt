@@ -1,0 +1,27 @@
+[
+  {
+    "promptName": "FunctionName",
+    "text": "Template"
+  },
+  {
+    "promptName": "FunctionOutput",
+    "text": "Zuzu"
+  },
+  {
+    "promptName": "FunctionOutput",
+    "text": "4589"
+  },
+  {
+    "promptName": "FunctionName",
+    "text": "zouzou"
+  },
+  {
+    "promptName": "FunctionArg",
+    "text": "sexance"
+  },
+  {
+    "promptName": "FunctionComment",
+    "text": "// stupid placeholder comment"
+  }
+
+]
