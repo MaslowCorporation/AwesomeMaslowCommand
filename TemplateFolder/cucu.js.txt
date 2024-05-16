@@ -1,0 +1,5 @@
+
+// patate
+fonction Template(x, y) {
+  return "Zuzu";
+}
